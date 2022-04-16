@@ -34,10 +34,10 @@ if __name__ == "__main__":
             "Operating System :: OS Independent",
             "Topic :: Scientific/Engineering",
             "Topic :: Utilities",
-            "Programming Language :: Python :: 3.7",
             "Programming Language :: Python :: 3.8",
             "Programming Language :: Python :: 3.9",
             ],
         keywords="utility aerospace engineering design problem solving",
+        python_requires=">=3.8",
         install_requires=('pint', 'numpy'),
     )
